@@ -8,3 +8,7 @@ Husk at Læs Read Me'en inde i Filen fordi der er det script hvor den gør at du
 # Discord
 
 Discord Link: https://discord.gg/kGY92g5kVV
+
+# Credits
+
+Kay Kay#7528
